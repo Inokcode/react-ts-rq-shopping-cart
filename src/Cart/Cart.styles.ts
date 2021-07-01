@@ -3,5 +3,5 @@ import styled from "styled-components";
 export const Wrapper = styled.aside`
     font-family: Arial,Helvetica,sans-serif;
     width: 500px;
-    paddings: 20px;
+    padding: 20px;
 `;
